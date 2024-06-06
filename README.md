@@ -42,7 +42,9 @@ associado a uma nação. Os cargos de líderes representam de maneira geral seus
 respectivas nações, podendo ser: comandante, oficial ou cientista. Cada facção deve ter um único
 líder para comandá-la, este sendo associado a uma nação onde a facção está presente, e um líder
 pode participar de apenas de uma facção.
-![image](https://github.com/alfunny/Sistema-Sociedade-Gal-ctica/assets/72526633/3b32b271-3373-44f6-9f8f-a956e977142d)
+
+# Modelo Relacional
+![image](https://github.com/alfunny/Sistema-Sociedade-Galactica/assets/72526633/d61784da-3ac9-4743-8db4-737c1ef592f1)
 
 # Usuarios
 Deve ser criada uma tabela chamada USERS, para armazenar os usuários do sistema, com os
